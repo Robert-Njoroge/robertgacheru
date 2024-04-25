@@ -8,7 +8,7 @@ html{
   scroll-behavior: smooth;
 }
 body{
-    background: linear-gradient(to right, #13052aff, white);
+    background: linear-gradient(to right, #13052aff, black);
     color: #fff;
 }
 #header{
